@@ -38,6 +38,7 @@ export function Hero() {
               width={20}
               height={20}
               alt="down-arrow-icon"
+              color="#FFF"
             />
             <Image
               src="/down-arrow.svg"
